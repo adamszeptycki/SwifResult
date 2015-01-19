@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'SwiftResult', :exclusive => true do
+  pod "SwiftResult", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "SwiftResult", :path => "../"
+
+  
+end
