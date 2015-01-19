@@ -1,0 +1,6 @@
+framework module SwiftResult {
+  umbrella header "Pods-SwiftResult-SwiftResult-umbrella.h"
+
+  export *
+  module * { export * }
+}
